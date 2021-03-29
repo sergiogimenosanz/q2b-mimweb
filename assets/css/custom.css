@@ -1,0 +1,528 @@
+body {
+  font-family: "neue Vektor CNC";
+  color: #fff;
+}
+
+#top .text-vertical {
+  background: none;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+#head-logo {
+  left: 50px;
+  top: 35px;
+  position: absolute;
+  z-index: 10;
+}
+.section-title {
+  margin-bottom: 70px;
+}
+#menu-toggle {
+  right: 47%;
+  position: absolute;
+  margin-left: -10px;
+}
+
+.header {
+  background: url("../img/top@2x.png") no-repeat center center;
+  /* background-size: cover; */
+}
+
+#sidebar-wrapper.active {
+  width: 100%;
+  background-color: #101522;
+}
+
+.nav-title {
+  text-align: left;
+  font: normal normal 300 40px/48px "neue Vektor CNC";
+  letter-spacing: 4px;
+  color: #ffffff;
+  opacity: 1;
+}
+.sidebar-nav {
+  width: 100%;
+}
+
+.nav-btn-find {
+  width: 308px;
+  height: 51px;
+  background: #4db1b4 0% 0% no-repeat padding-box;
+  opacity: 1;
+  font: normal normal 300 24px/45px "neue Vektor CNC";
+  letter-spacing: 2.4px;
+  color: #ffffff;
+  text-transform: uppercase;
+  padding-top: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  padding-bottom: 0 !important;
+  text-align: center !important;
+}
+
+.nav-btn-find:hover {
+  background: #4db1b4 0% 0% no-repeat padding-box !important;
+}
+
+.nav-box-menu {
+  border-left: 0.5px solid #fff;
+  height: 600px;
+  padding-left: 100px;
+}
+
+.nav-box-menu li {
+  margin-bottom: 30px;
+}
+
+.nav-box-menu li a {
+  text-align: left;
+  font: normal normal normal 28px/45px "neue Vektor CNC";
+  letter-spacing: 2.8px;
+  color: #ffffff;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+h1 {
+  text-align: left;
+  font: normal normal 300 80px/96px "neue Vektor CNC";
+  letter-spacing: 8px;
+  color: #ffffff;
+  opacity: 1;
+  margin-top: 150px;
+}
+
+.p-home-explain {
+  text-align: left;
+  font: normal normal normal 28px/45px "neue Vektor CNC";
+  letter-spacing: 2.8px;
+  color: #ffffff;
+  text-transform: uppercase;
+  opacity: 1;
+  margin-top: 50px;
+  margin-bottom: 80px !important;
+}
+
+.img-line-2 {
+  position: absolute;
+  top: -60px;
+  left: 50%;
+  background: url("../img/line2.svg") no-repeat;
+  width: 4px;
+  height: 54px;
+  z-index: 10;
+}
+.img-line-3 {
+  position: absolute;
+  top: 60px;
+  left: 50%;
+  background: url("../img/line3.svg") no-repeat;
+  width: 4px;
+  height: 329px;
+  z-index: 10;
+}
+.img-logo-about {
+  position: absolute;
+  top: 400px;
+  left: 50%;
+  background: url("../img/about-logo.png") no-repeat;
+  background-size: cover;
+  width: 87px;
+  height: 87px;
+  margin-left: -43px;
+  z-index: 10;
+}
+.img-line-4 {
+  position: absolute;
+  top: 500px;
+  left: 50%;
+  background: url("../img/line4.svg") no-repeat;
+  width: 4px;
+  height: 386px;
+  z-index: 10;
+}
+
+#about {
+  background: url("../img/Enmascarar\ grupo\ 12@2x.png") no-repeat center center;
+  height: 1000px;
+  background-size: cover;
+}
+.box-content-mimweb h2 {
+  text-align: center;
+  font: normal normal normal 25px/45px "neue Vektor CNC";
+  letter-spacing: 2.5px;
+  color: #ffffff;
+  text-transform: uppercase;
+  opacity: 1;
+  font-weight: 400;
+  margin-top: 5px;
+}
+.box-content-mimweb h3 {
+  font: normal normal 300 25px/26px "neue Vektor CNC";
+  letter-spacing: 2.5px;
+  color: #ffffff;
+  opacity: 1;
+  font-weight: 400;
+}
+.box-content-mimweb p {
+  font: normal normal 300 20px/30px "neue Vektor CNC";
+  letter-spacing: 1px;
+  color: #ffffff;
+  opacity: 1;
+  font-weight: 400;
+}
+
+.box-menu-left {
+  width: 40%;
+}
+.box-menu-right {
+  width: 50%;
+}
+#section-3 {
+  background: url("../img/section-3.jpg") no-repeat center center;
+  background-size: cover;
+}
+.section-3-inside {
+  background: #101522 0% 0% no-repeat padding-box;
+  opacity: 0.75;
+  padding: 80px;
+}
+
+#section-4 {
+  background-color: #101522;
+}
+.box-graphic img {
+  width: 100%;
+}
+
+#section-5 {
+  background-color: #4db1b4;
+}
+#section-6 {
+  background: transparent url("../img/section-6.png") no-repeat center center;
+  background-size: cover;
+  position: relative;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.section-6-inside {
+  background-color: #070519;
+  opacity: 0.75;
+  position: absolute;
+  letter-spacing: 1.4px;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.p-mim-pholosophy {
+  font: normal normal normal 28px/39px "neue Vektor CNC" !important;
+}
+
+#section-7 {
+  background: url("../img/section-7.png") no-repeat center center;
+  background-size: cover;
+  position: relative;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+#section-7 img {
+  margin-bottom: 20px;
+  height: 60px;
+}
+
+.section-7-inside {
+  background-color: #101522;
+  opacity: 0.49;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+#box-footer {
+  background-color: #070519;
+}
+#box-footer img {
+  margin-top: 120px;
+  margin-bottom: 40px;
+}
+.modal-content {
+  background-color: #101522;
+}
+
+.modal-content .logo {
+  width: auto !important;
+  margin-left: 50px;
+}
+
+.modal-left {
+  text-align: left;
+  font: normal normal 300 30px/34px "neue Vektor CNC";
+  letter-spacing: 3px;
+  color: #ffffff;
+  opacity: 1;
+}
+.modal-right {
+  text-align: left;
+  font: normal normal 300 27px/47px "neue Vektor CNC";
+  letter-spacing: 1.35px;
+  opacity: 1;
+}
+.modal-right a {
+  color: #4db1b4;
+}
+.hidden-md,
+.show-tablet,
+.hidden-tablet {
+  display: none;
+}
+
+@media only screen and (max-width: 992px) {
+  .no-tablet {
+    display: none;
+  }
+  .header {
+    background-size: inherit;
+  }
+  .show-tablet {
+    display: block;
+  }
+  .img-line-3 {
+    top: -20px;
+    left: 50%;
+    width: 4px;
+    height: 159px;
+    z-index: 10;
+  }
+  .img-logo-about {
+    top: 140px;
+    left: 50%;
+    width: 87px;
+    height: 87px;
+    margin-left: -43px;
+    z-index: 10;
+  }
+  .img-line-4 {
+    top: 240px;
+    left: 50%;
+    width: 4px;
+    height: 200px;
+    z-index: 10;
+  }
+  #about {
+    background: #000;
+    height: auto;
+    background-size: cover;
+    padding-bottom: 0;
+  }
+
+  .secion-1-mobile {
+    background: url("../img/Enmascarar\ grupo\ 12@2x.png") no-repeat center
+      center;
+    height: 450px;
+    background-size: cover;
+    position: relative;
+  }
+  .section-3-inside {
+    background: #101522 0% 0% no-repeat padding-box;
+    opacity: 0.75;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+
+@media only screen and (width: 768px) {
+  h1 {
+    font: normal normal 300 60px/76px "neue Vektor CNC";
+    letter-spacing: 4px;
+    text-align: left;
+    width: 100%;
+    margin-top: 80px;
+  }
+  .p-home-explain {
+    font-size: 18px;
+    margin-top: 0;
+  }
+  .hidden-tablet {
+    display: none;
+  }
+  .p-the-ritual {
+    text-align: center;
+    font: normal normal 300 20px/39px "neue Vektor CNC";
+    letter-spacing: 1px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  h1 {
+    font: normal normal 300 40px/46px "neue Vektor CNC";
+    letter-spacing: 4px;
+    text-align: left;
+    width: 100%;
+    margin-top: 80px;
+  }
+
+  h2 {
+    line-height: 25px;
+  }
+
+  .p-home-explain {
+    font: normal normal normal 18px/25px "neue Vektor CNC";
+    margin-top: 0;
+  }
+  .p-the-ritual {
+    text-align: center;
+    font: normal normal 300 20px/39px "neue Vektor CNC";
+    letter-spacing: 1px;
+  }
+  .header {
+    background: url("../img/section_1_mob.png") no-repeat center center;
+    /* background-size: cover; */
+  }
+
+  #menu-toggle {
+    right: 5px;
+    position: absolute;
+    top: 0;
+  }
+  #head-logo {
+    left: 15px;
+    top: 20px;
+    position: absolute;
+    z-index: 10;
+  }
+
+  #about {
+    background: #000;
+    height: auto;
+    background-size: cover;
+    padding-bottom: 0;
+  }
+
+  .secion-1-mobile {
+    background: url("../img/Enmascarar\ grupo\ 12@2x.png") no-repeat center
+      center;
+    height: 450px;
+    background-size: cover;
+    position: relative;
+  }
+  .box-content-mimweb h2 {
+    font-size: 25px;
+  }
+  .img-line-3 {
+    top: -20px;
+    left: 50%;
+    width: 4px;
+    height: 159px;
+    z-index: 10;
+  }
+  .img-logo-about {
+    top: 140px;
+    left: 50%;
+    width: 87px;
+    height: 87px;
+    margin-left: -43px;
+    z-index: 10;
+  }
+  .img-line-4 {
+    top: 240px;
+    left: 50%;
+    width: 4px;
+    height: 200px;
+    z-index: 10;
+  }
+  #section-3 {
+    background: none;
+    position: relative;
+    height: 750px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  #section-3 .heading {
+    font-size: 18px;
+  }
+
+  #section-3-1-mob {
+    background: url("../img/section-3-1-mob@2x.png") no-repeat center center;
+    height: 375px;
+    width: 100%;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  #section-3-2-mob {
+    height: 375px;
+    width: 100%;
+    background: url("../img/section-3-2-mob@2x.png") no-repeat center center;
+    background-size: cover;
+    position: absolute;
+    top: 375px;
+    left: 0;
+  }
+  .section-3-inside {
+    background: #101522 0% 0% no-repeat padding-box;
+    opacity: 0.75;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .lead {
+    font: normal normal normal 15px/23px "neue Vektor CNC" !important;
+    font-size: 15px !important;
+    letter-spacing: 0.75px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .section-title {
+    margin-bottom: 20px;
+  }
+  #box-footer {
+    text-align: center;
+  }
+  .hidden-xs {
+    display: none;
+  }
+  .hidden-md {
+    display: inherit;
+  }
+
+  #menu-close {
+    float: right;
+  }
+
+  .nav-box-menu {
+    padding-left: 20px;
+  }
+  .nav-box-menu li a {
+    text-align: left;
+    font: normal normal normal 24px/24px "neue Vektor CNC";
+    letter-spacing: 1.8px;
+    font-size: 20px !important;
+    color: #ffffff;
+    text-transform: uppercase;
+    opacity: 1;
+  }
+
+  .nav-btn-find {
+    padding-top: 10px !important;
+  }
+}
+
+@media only screen and (min-width: 1749px) {
+  .header {
+    background-size: cover;
+  }
+}

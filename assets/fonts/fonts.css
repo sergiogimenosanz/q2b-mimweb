@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'neue Vektor CNC';
+    src: url('neueVektor-CNC-RegularItalic.woff2') format('woff2'),
+        url('neueVektor-CNC-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'neue Vektor CNC';
+    src: url('neueVektor-CNC-Bold.woff2') format('woff2'),
+        url('neueVektor-CNC-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'neue Vektor CNC';
+    src: url('neueVektor-CNC-Thin.woff2') format('woff2'),
+        url('neueVektor-CNC-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'neue Vektor CNC';
+    src: url('neueVektor-CNC-LightItalic.woff2') format('woff2'),
+        url('neueVektor-CNC-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'neue Vektor CNC';
+    src: url('neueVektor-CNC-Light.woff2') format('woff2'),
+        url('neueVektor-CNC-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'neue Vektor CNC Book';
+    src: url('neueVektor-CNC-BookItalic.woff2') format('woff2'),
+        url('neueVektor-CNC-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'neue Vektor CNC';
+    src: url('neueVektor-CNC-BoldItalic.woff2') format('woff2'),
+        url('neueVektor-CNC-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'neue Vektor CNC Extra';
+    src: url('neueVektor-CNC-ExtraLight.woff2') format('woff2'),
+        url('neueVektor-CNC-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'neue Vektor CNC';
+    src: url('neueVektor-CNC-Regular.woff2') format('woff2'),
+        url('neueVektor-CNC-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'neue Vektor CNC';
+    src: url('neueVektor-CNC-ThinItalic.woff2') format('woff2'),
+        url('neueVektor-CNC-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'neue Vektor CNC Book';
+    src: url('neueVektor-CNC-Book.woff2') format('woff2'),
+        url('neueVektor-CNC-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'neue Vektor CNC Ex';
+    src: url('neueVektor-CNC-ExtraLightItalic.woff2') format('woff2'),
+        url('neueVektor-CNC-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'neue Vektor CNC';
+    src: url('neueVektor-CNC-Medium.woff2') format('woff2'),
+        url('neueVektor-CNC-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'neue Vektor CNC';
+    src: url('neueVektor-CNC-MediumItalic.woff2') format('woff2'),
+        url('neueVektor-CNC-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
